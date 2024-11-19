@@ -5,13 +5,6 @@
 **免费好用的在线社工库查询网站和 Telegram电报社工库机器人，可以查询平台帐号、密码、查qq绑定、查邮箱、查手机号、查身份证以及各种隐私数据是否泄露，看看你是否也处于数据外泄事件之中。**
 
 
-
->🔔插个广告：因为大多数社工库都需要用到Telegram，大陆的朋友正常都上不了境外网站，给没法上外网的朋友推荐个很多人都在推荐的机场，每月几块钱，不限设备，外网想上就上👇👇👇👇👇
-
-
-<a href="https://idouyin.io/34" target="_blank"><img src="https://img.fooliji.com/file/1015d9c5b28424ee58713.png" alt="社工库专用机场" border="0"></a>
-
-
 社工库账号都列举在下面了，鉴于个别同学不会使用社工库工具，贴一下教程：<a href="https://www.shegongku.top/179.html" target="_blank">2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
@@ -284,8 +277,4 @@ AI社工库稳定运行有一段时间了，信息较全，查询免费，解锁
 
 社工库账号：<a href="https://t.me/ku77777" target="_blank">@ku77777</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/82.html" target="_blank" >Telegram使用详细教程</a>。
 
-## 烈火社工库机器人⭐️
 
-~~可查询项: 身份户籍, 开房记录, 企业信息, 事业单位, 贷款记录, 车辆车主, 电话通话, 学籍信息, 收货信息, 驾驶证, 外卖订单, 通讯录, 网购记录, 婚姻状况, 社保信息, 招聘记录, QQ/邮箱/微博/网络支付/微信号/LOL/手机号码, 朋友圈状态, QQ和其他在线聊天记录, 航班出行, 银行开卡, 贷款记录, 匹配完整手机号, 身份证号等联系方式相关信息。~~
-
-这个社工库已经停止服务，没法用了，原账号：@LHAISGK_bot，看看其他社工库机器人吧：<a href="https://www.shegongku.top/21.html" target="_blank" >2024最新免费社工库(更新中)</a>。
