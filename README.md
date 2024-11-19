@@ -17,17 +17,17 @@
 
 ⚠️免责声明：整理来自网络的可用社工库工具，勿用于非法用途，仅供了解、娱乐、个人信息泄露验证使用，没有对社工库有进一步的了解，对付费的社工库也没有尝试过，不做评价，但我相信，充值了也不一定能查出来东西，自己有个心里准备。
 
-## 暗精灵社工库⭐️⭐️⭐️⭐️⭐️
+## 天眼查社工库⭐️⭐️⭐️⭐️⭐️
 
 暗精灵社工库可查手机、QQ、微博、快递、身份户籍，目前已关闭签到功能，只能通过分享或充值获取积分。
 
-* 暗精灵社工库账号: <a href="https://t.me/tianqi871_chaxun?start=qstxIqcQ3R" target="_blank">@@tianqi871_chaxun</a>
+* 暗精灵社工库账号: <a href="https://t.me/tianqi871_chaxun?start=qstxIqcQ3R" target="_blank">@tianqi871_chaxun</a>
 * 教程: <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
 使用如下图：
 
-<a href="https://idouyin.io/41" target="_blank"><img src="pic/ajl.png" alt="暗精灵社工库" border="0" style="width:380px;"></a>
+<a href="https://idouyin.io/41" target="_blank"><img src="pic/ajl.png" alt="天眼查" border="0" style="width:380px;"></a>
 
 
 
@@ -35,8 +35,8 @@
 
 这个社工库可以通过每日签到获取积分，查询免费，解锁需要积分。
 
-* 账号: <a href="https://www.shegongku.top/46.html" target="_blank">X-ray社工库</a>；
-* 教程：<a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+* 账号: <a href="https://t.me/ku77777" target="_blank">X-ray社工库</a>；
+* 教程：<a href="https://t.me/ku77777" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
 
 
