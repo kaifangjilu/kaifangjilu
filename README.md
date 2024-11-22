@@ -1,6 +1,4 @@
-# 上下五千年社工库
-
-[查看项目源码](https://github.com/kaifangjilu/kaifangjilu)
+# [上下五千年社工库](https://github.com/kaifangjilu/kaifangjilu)
 
 <meta name="keywords" content="上下五千年社工库">
 
