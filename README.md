@@ -1,3 +1,5 @@
+[查看项目源码](https://github.com/kaifangjilu/kaifangjilu)
+
 <meta name="google-site-verification" content="-6f-lELKKRF9PrXnMR67Ol7RTQ0-l0dKahkdEjNYrUs" />
 <meta name="keywords" content="2024最新社工库">
 <meta name="keywords" content="2025最新社工库">
