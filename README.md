@@ -21,7 +21,10 @@
 * 天眼查: <a href="https://t.me/kfjlwx?start=qstxIqcQ3R" target="_blank">@hujev</a>
 * 教程: <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
+数据量大且优质，输出结果信息较为全面，手机监控👑手机监听👑手机远控👑私家侦探
 
+已安装注册Telegram的用户（下同）可直接通过[传送门](https://t.me/ku77777?start=AISGK_TDW5DW2V)访问，根据机器人提示操作即可。
+账号@ku77777
 使用如下图：
 
 <a href="https://idouyin.io/41" target="_blank"><img src="pic/ajl.png" alt="天眼查" border="0" style="width:380px;"></a>
