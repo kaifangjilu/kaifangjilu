@@ -1,9 +1,3 @@
-# [2024最新免费社工库排行(各位看官，麻烦给个star关注一下)
-(https://github.com/kaifangjilu/kaifangjilu)
-
-<meta name="keywords" content="2024最新免费社工库排行(各位看官，麻烦给个star关注一下)
-">
-
 <meta name="description" content="2024最新免费社工库排行(各位看官，麻烦给个star关注一下)
  免费好用的在线社工库查询网站和 Telegram电报社工库机器人，可以查询平台帐号、密码、查qq绑定、查邮箱、查手机号、查身份证以及各种隐私数据是否泄露，看看你是否也处于数据外泄事件之中">
 
@@ -22,78 +16,78 @@
 暗精灵社工库可查手机、QQ、微博、快递、身份户籍，目前已关闭签到功能，只能通过分享或充值获取积分。
 
 * 天眼查: <a href="https://t.me/kfjlwx?start=qstxIqcQ3R" target="_blank">@hujev</a>
-* 教程: <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+<img src="pic/bbbb.png" alt="免费社工库" border="0">
 
 数据量大且优质，输出结果信息较为全面，手机监控👑手机监听👑手机远控👑私家侦探
 
 已安装注册Telegram的用户（下同）可直接通过[传送门](https://t.me/ku77777?start=AISGK_TDW5DW2V)访问，根据机器人提示操作即可。
 账号@ku77777
-使用如下图：
 
-<a href="https://idouyin.io/41" target="_blank"><img src="pic/ajl.png" alt="天眼查" border="0" style="width:380px;"></a>
-
-
+<img src="pic/xxxx.png" alt="免费社工库" border="0">
 
 ## X-ray社工库⭐️⭐️⭐️⭐️⭐️
 
 这个社工库可以通过每日签到获取积分，查询免费，解锁需要积分。
 
 * 账号: <a href="https://t.me/ku77777" target="_blank">X-ray社工库</a>；
-* 教程：<a href="https://t.me/ku77777" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
-
+<img src="pic/ssss.png" alt="免费社工库" border="0">
 
 ## Hope社工库机器人⭐️⭐️⭐️⭐️⭐️
 
 数据不错的社工库，支持微信绑定、QQ绑定、手机IMEI信息库、快递信息、三要素信息、微博绑定、支付宝信息、全国法人数据的查询。
 
 * 账号：<a href="https://t.me/tianqi871" target="_blank">Hope社工库</a>
-* 使用教程： <a href="https://t.me/tianqi871" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
+<img src="pic/qqqq.png" alt="免费社工库" border="0">
 
 ## 黑盒社工库⭐️⭐️⭐️⭐️⭐️
 
 超级好用的一个社工库，免费使用，需要积分，但是可以通过首次使用赠送、分享好友等方式获取积分。
 
 * 账号：<a href="https://t.me/tianqi871" target="_blank">黑盒社工库</a>；
-* 使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+
+<img src="pic/qqqq.png" alt="免费社工库" border="0">
 
 ## liemo社工库⭐️⭐️⭐️⭐️⭐️
 
 速度很快的一个社工库，支持多种查询方式，姓名查询、身份证号查询、性别模糊查询，可以通过每天签到获取积分。发现这个社工库时不时的会抽下风，没耐心的肯定会以为它挂了，过会有诈尸了。
 
 * 账号信息：<a href="https://t.me/weiyi10" target="_blank">liemo社工库</a>；
-* 教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
-
+<img src="pic/eeee.png" alt="免费社工库" border="0">
 
 ## 星盾社工机器人⭐️⭐️⭐️⭐️
 
 星盾社工机器人收录的数据质量还可以，查询免费，解锁金币或钻石，分享可以获得金币，钻石就需要充值了，我穷，充不起，看看得了。
 
-账号：<a href="https://t.me/weiyi10" target="_blank">@tianqi871</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram社工库使用的参考这篇详细介绍：<a href="https://www.shegongku.top/179.html" target="_blank">2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+账号：<a href="https://t.me/weiyi10" target="_blank">@tianqi871</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进
 
+<img src="pic/bbbb.png" alt="免费社工库" border="0">
 
 ## 摩乐乐社工库机器人-社工好帮手⭐️⭐️
 
 根据手机号查询姓名、身份证号等信息，需要的自己测试吧。
 
 * 账号：<a href="https://t.me/ku77777" target="_blank">摩乐乐社工库</a>
-* 使用教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
 
+<img src="pic/aaaa.png" alt="免费社工库" border="0">
 
 ## Koi社工库机器人⭐️⭐️⭐️
 
-可以免费使用的社工库，支持签到或分享获取积分。支持开房纪录/同住纪录/刑侦全户/个户/资产查询/支付宝实名/外卖快递/寻人/调查/查资产/查婚姻等信息查询。Koi社工库详情：<a href="https://www.shegongku.top/282.html" target="_blank" >社工库：koi社工库，支持查询开房记录/同住记录/个户/外卖地址/快递地址</a>。
+可以免费使用的社工库，支持签到或分享获取积分。支持开房纪录/同住纪录/刑侦全户/个户/资产查询/支付宝实名/外卖快递/寻人/调查/查资产/查婚姻等信息查
 
-账号：<a href="https://t.me/ku77777" target="_blank">@Ku77777</a>，教程： <a href="https://www.shegongku.top/179.html" target="_blank" >2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+<img src="pic/bbbb.png" alt="免费社工库" border="0">
 
+账号：<a href="https://t.me/ku77777" target="_blank">@Ku77777</a>
+
+<img src="pic/aaaa.png" alt="免费社工库" border="0">
 
 ## 平安社工库⭐️⭐️⭐️⭐️
 
 平安社工库可以查询身份户籍、快递地址、QQ绑定、微博绑定等信息，社工库详情：<a href="https://t.me/ku77777" target="_blank" >平安社工库</a>。
 
-<a href="https://idouyin.io/34" target="_blank"><img src="pic/pingan.png" alt="平安社工库" border="0" style="width:380px;"></a>
+<img src="pic/bbbb.png" alt="免费社工库" border="0">
 
 
 账号信息：<https://t.me/ku77777" target="_blank">@de77777t</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。
@@ -102,28 +96,31 @@
 
 ## Hello World社工库⭐️⭐️⭐️
 
-此社工库支持查询：身份户籍、手机机主、开房记录、快递地址等。此社工库详情：<a href="https://www.shegongku.top/26.html" target="_blank">ello World社工库</a>。
+此社工库支持查询：身份户籍、手机机主、开房记录、快递地址等。此社工库详情：
+
+<img src="pic/eeee.png" alt="免费社工库" border="0">
 
 
-<a https://t.me/kfjlwx" target="_blank"><img src="pic/hello.png" alt="Hello World社工库" border="0" style="width:380px;"></a>
+账号：<a href="https://t.me/kfjlwx" target="_blank">@sgk2023_03_30botttttt</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入
 
-
-账号：<a href="https://t.me/kfjlwx" target="_blank">@sgk2023_03_30botttttt</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。不会使用Telegram社工库使用的参考这篇详细介绍：<a href="https://www.shegongku.top/179.html" target="_blank">2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+<img src="pic/xxxx.png" alt="免费社工库" border="0">
 
 
 ## 哈希社工库⭐️⭐️⭐️
 
 支持人脸识别、手机号查询、短信轰炸，支持每日签到。
 
-账号：<a https://t.me/kfjlwx="_blank">@kfjlwx</a>，需要安装Telegram，安装后点击链接会自动打开机器人地址，不会使用Telegram的看这里吧： <a href="https://www.shegongku.top/179.html" target="_blank" >Telegram使用详细教程</a>。
+账号：<a https://t.me/kfjlwx="_blank">@kfjlwx</a>，需要安装Telegram，安装后点击链接会自动打开机器人地址，
+
+<img src="pic/bbbb.png" alt="免费社工库" border="0">
 
 ## ingeek社工库⭐️⭐️
 
 这个社工库每日签到或分享就能获取积分，不一定要充值，也不建议充值。
 
-* 详情：<a https://t.me/kfjlwx" target="_blank" >ingeek社工库</a>。
-* 账号：<a href="https://idouyin.io/4c" target="_blank">@kfjlwx</a>，需要安装Telegram，教程：<a href="https://www.shegongku.top/179.html" target="_blank">2024年最新社工库使用方法(Telegram社工库使用图文教程)</a>。
+* 账号：<a href="https://idouyin.io/4c" target="_blank">@kfjlwx</a>，
 
+<img src="pic/aaaa.png" alt="免费社工库" border="0">
 
 ## AI社工库⭐️⭐️⭐️
 
