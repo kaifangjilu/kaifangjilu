@@ -13,6 +13,10 @@
 ### 小火箭社工库查询⭐⭐⭐⭐⭐
 账号 [@MoLeLe_SGKbot] 账号(https://t.me/MoLeLe_SGKbot?start=NTgzNzg1NTEy) <a href="https://t.me/MoLeLe_SGKbot?start=qstxIqcQ3R" target="_blank">
 
+## 海豚查档社工库⭐⭐⭐⭐⭐开房记录 微信记录 聊天记录 个人信息可以查询平台帐号、密码、查qq绑定、查邮箱、查手机号、查身份证
+
+* 账号: <a href="https://t.me/@hdcqbot?start=qstxIqcQ3R" target="_blank">X-ray社工库</a>；账号；@@hdcqbot
+
 ### Seed社工库[@Ahu_SGKbot]
 
 ## 天眼查社工库⭐⭐⭐⭐⭐
@@ -26,14 +30,13 @@
 暗精灵社工库可查手机、QQ、微博、快递、身份户籍，目前已关闭签到功能，只能通过分享或充值获取积分。
 
 * 天眼查: <a href="https://t.me/kfjlwx?start=qstxIqcQ3R" target="_blank">@hujev</a>
-<img src="pic/bbbb.png" alt="免费社工库" border="0">
+
 
 数据量大且优质，输出结果信息较为全面，手机监控👑手机监听👑手机远控👑私家侦探
 
 已安装注册Telegram的用户（下同）可直接通过[传送门](https://t.me/ku77777?start=AISGK_TDW5DW2V)访问，根据机器人提示操作即可。
 账号@ku77777
 
-<img src="pic/xxxx.png" alt="免费社工库" border="0">
 
 ## X-ray社工库⭐️⭐️⭐️⭐️⭐️
 
@@ -41,7 +44,6 @@
 
 * 账号: <a href="https://t.me/ku77777" target="_blank">X-ray社工库</a>；
 
-<img src="pic/ssss.png" alt="免费社工库" border="0">
 
 ## Hope社工库机器人⭐️⭐️⭐️⭐️⭐️
 
@@ -49,7 +51,6 @@
 
 * 账号：<a href="https://t.me/tianqi871" target="_blank">Hope社工库</a>
 
-<img src="pic/qqqq.png" alt="免费社工库" border="0">
 
 ## 黑盒社工库⭐️⭐️⭐️⭐️⭐️
 
@@ -57,15 +58,12 @@
 
 * 账号：<a href="https://t.me/tianqi871" target="_blank">黑盒社工库</a>；
 
-<img src="pic/qqqq.png" alt="免费社工库" border="0">
-
 ## liemo社工库⭐️⭐️⭐️⭐️⭐️
 
 速度很快的一个社工库，支持多种查询方式，姓名查询、身份证号查询、性别模糊查询，可以通过每天签到获取积分。发现这个社工库时不时的会抽下风，没耐心的肯定会以为它挂了，过会有诈尸了。
 
 * 账号信息：<a href="https://t.me/weiyi10" target="_blank">liemo社工库</a>；
 
-<img src="pic/eeee.png" alt="免费社工库" border="0">
 
 ## 星盾社工机器人⭐️⭐️⭐️⭐️
 
@@ -73,7 +71,6 @@
 
 账号：<a href="https://t.me/weiyi10" target="_blank">@tianqi871</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进
 
-<img src="pic/bbbb.png" alt="免费社工库" border="0">
 
 ## 摩乐乐社工库机器人-社工好帮手⭐️⭐️
 
@@ -81,39 +78,28 @@
 
 * 账号：<a href="https://t.me/ku77777" target="_blank">摩乐乐社工库</a>
 
-<img src="pic/aaaa.png" alt="免费社工库" border="0">
 
 ## Koi社工库机器人⭐️⭐️⭐️
 
 可以免费使用的社工库，支持签到或分享获取积分。支持开房纪录/同住纪录/刑侦全户/个户/资产查询/支付宝实名/外卖快递/寻人/调查/查资产/查婚姻等信息查
 
-<img src="pic/bbbb.png" alt="免费社工库" border="0">
-
 账号：<a href="https://t.me/ku77777" target="_blank">@Ku77777</a>
 
-<img src="pic/aaaa.png" alt="免费社工库" border="0">
 
 ## 平安社工库⭐️⭐️⭐️⭐️
 
-平安社工库可以查询身份户籍、快递地址、QQ绑定、微博绑定等信息，社工库详情：<a href="https://t.me/ku77777" target="_blank" >平安社工库</a>。
-
-<img src="pic/bbbb.png" alt="免费社工库" border="0">
+平安社工库可以查询身份户籍、快递地址、QQ绑定、微博绑定等信息，社工库详情：<a href="https://t.me/ku77777" target="_blank" >
 
 
 账号信息：<https://t.me/ku77777" target="_blank">@de77777t</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入。
-
 
 
 ## Hello World社工库⭐️⭐️⭐️
 
 此社工库支持查询：身份户籍、手机机主、开房记录、快递地址等。此社工库详情：
 
-<img src="pic/eeee.png" alt="免费社工库" border="0">
-
 
 账号：<a href="https://t.me/kfjlwx" target="_blank">@sgk2023_03_30botttttt</a>，需要安装Telegram，安装Telegram后，复制账号到Telegram搜索账号即可进入
-
-<img src="pic/xxxx.png" alt="免费社工库" border="0">
 
 
 ## 哈希社工库⭐️⭐️⭐️
@@ -122,7 +108,6 @@
 
 账号：<a https://t.me/kfjlwx="_blank">@kfjlwx</a>，需要安装Telegram，安装后点击链接会自动打开机器人地址，
 
-<img src="pic/bbbb.png" alt="免费社工库" border="0">
 
 ## ingeek社工库⭐️⭐️
 
@@ -130,7 +115,6 @@
 
 * 账号：<a href="https://idouyin.io/4c" target="_blank">@kfjlwx</a>，
 
-<img src="pic/aaaa.png" alt="免费社工库" border="0">
 
 ## AI社工库⭐️⭐️⭐️
 
